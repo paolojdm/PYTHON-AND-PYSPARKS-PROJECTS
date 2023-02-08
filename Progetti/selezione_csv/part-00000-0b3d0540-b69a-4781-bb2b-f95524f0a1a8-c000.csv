@@ -1,0 +1,8 @@
+data,importo,codice,descrizione
+2018-01-25T00:00:00.000+01:00,-250,BA,Riscaldamento rata 3
+2018-02-01T00:00:00.000+01:00,-300,PC,Prelievo bancomat 101
+2018-03-12T00:00:00.000+01:00,-250,BA,Riscaldamento rata 4
+2018-03-14T00:00:00.000+01:00,-50,PB,Pagobancomat Ikea
+2018-04-08T00:00:00.000+02:00,-300,PC,Prelievo bancomat 101
+2018-05-11T00:00:00.000+02:00,-520,BA,Condominio rata 11
+2018-05-15T00:00:00.000+02:00,-30,PB,Pagobancomat Farmacia Rossi

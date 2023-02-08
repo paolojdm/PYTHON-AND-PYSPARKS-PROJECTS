@@ -1,0 +1,16 @@
+data;importo;codice;descrizione
+2018-01-24;1000;AS;Stipendio gennaio 
+2018-01-25;-250;BA;Riscaldamento rata 3 
+2018-02-01;-300;PC;Prelievo bancomat 101 
+2018-02-25;1000;AS;Stipendio febbraio 
+2018-03-12;-250;BA;Riscaldamento rata 4 
+2018-03-14;-50;PB;Pagobancomat Ikea 
+2018-03-24;1000;AS;Stipendio marzo 
+2018-04-08;-300;PC;Prelievo bancomat 101 
+2018-04-27;1000;AS;Stipendio aprile 
+2018-05-11;-520;BA;Condominio rata 11 
+2018-05-15;-30;PB;Pagobancomat Farmacia Rossi
+2018-05-28;1000;AS;Stipendio maggio 
+2018-05-28;1000;AS;Stipendio maggio 
+2018-06-05;250;VS;Versamento 
+2018-06-13;620;BD;Saldo collaborazione
